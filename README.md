@@ -44,4 +44,4 @@ of the following aspects:
 2. Slow transaction confirmations.
 3. High threshold for new members.
 
-BitcoinTOP is Bitcoin Hard Forked in Blocks 501118. 1BTC:1BTT, Block size 8M, algo SHA256, Block rate 10minutes, Segwit, Replay protection.Pow consensus.
+BitcoinTOP is Bitcoin Hard Forked in Blocks 501118. 1BTC:1BTT, Block size 8M, Segwit, Replay protection, Algo SHA256, Pow consensus.
