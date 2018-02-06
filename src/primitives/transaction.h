@@ -223,7 +223,7 @@ class CTransaction
 public:
 
     static const int32_t CURRENT_VERSION_OLD=2;
-    static const int32_t CURRENT_VERSION_FORK=12;
+    static const int32_t CURRENT_VERSION_FORK=13;
 
     // Default transaction version.
     static const int32_t CURRENT_VERSION=CURRENT_VERSION_FORK;
