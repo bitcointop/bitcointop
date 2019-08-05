@@ -1,7 +1,7 @@
 Bitcoin Top
 ===============
 
-https://bitcointop.org
+http://bitcointop.org
 
 What is BitcoinTop?
 -----------------------
@@ -14,7 +14,7 @@ the Bitcoin blockchain. The original Bitcoin blockchain will continue on unalter
 of the blockchain will split off from the original chain. It shares the same transaction history 
 with Bitcoin until it starts branching and coming into a unique block from which it diverges. 
 As a result of this process, a new cryptocurrency was created which we call “Bitcoin Top”.
-For more information, see https://bitcointop.org
+For more information, see http://bitcointop.org
 
 License
 -------
